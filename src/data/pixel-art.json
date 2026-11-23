@@ -1,0 +1,30 @@
+{
+  "pokeball": {
+    "rows": [
+      "......KKKK......",
+      "....KKRRRrKK....",
+      "...KHRRRRRRrK...",
+      "..KHHRRRRRRRrK..",
+      ".KRHRRRRRRRRRrK.",
+      ".KRRRRRKKRRRRrK.",
+      "KRRRRRKKKKRRRRrK",
+      ".KKKKKKWWKKKKKK.",
+      ".KKKKKKWWKKKKKK.",
+      "KgWWWWKKKKWWWggK",
+      ".KWWWWWKKWWWWgK.",
+      ".KgWWWWWWWWWggK.",
+      "..KgWWWWWWWggK..",
+      "...KggWWWgggK...",
+      "....KKggggKK....",
+      "......KKKK......"
+    ],
+    "palette": {
+      "K": "#1b1d17",
+      "W": "#ffffff",
+      "R": "#e3350d",
+      "r": "#a82208",
+      "g": "#c9c3b2",
+      "H": "#ffb8a8"
+    }
+  }
+}
